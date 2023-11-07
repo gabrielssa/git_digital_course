@@ -1,5 +1,3 @@
-# Testando
+# Curso digital: Git
 
-## Testando 2
-
-Isso aqui é um test
+## Salvando alterações no git
